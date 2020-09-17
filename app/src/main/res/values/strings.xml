@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">demo2</string>
+    <string name="txtTitle">Gym Workout</string>
+    <string name="eat_healthy_work_hard">Eat Healthy Work Hard</string>
+    <string name="view_diet">View Diet</string>
+    <string name="bruschetta_recipe">Bruschetta Recipe</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="tomatoes">4 plum tomatoes</string>
+    <string name="basil">6 basil leaves</string>
+    <string name="cloves">3 garlic cloves, chopped</string>
+    <string name="oliveOil">3 TB olive oil</string>
+    <string name="directions">Directions</string>
+    <string name="directionContent">Combine the ingredients and add salt to taste. Top French bread slices with mixture.</string>
+
+</resources>
